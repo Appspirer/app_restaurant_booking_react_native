@@ -1,0 +1,16 @@
+export default {
+    bg: require('../assets/images/bg.png'),
+    avatar: require('../assets/images/avatar.png'),
+    category1: require('../assets/images/category1.png'),
+    category2: require('../assets/images/category2.png'),
+    category3: require('../assets/images/category3.png'),
+    category4: require('../assets/images/category4.png'),
+    category5: require('../assets/images/category5.png'),
+    category6: require('../assets/images/category6.png'),
+    category7: require('../assets/images/category7.png'),
+    category8: require('../assets/images/category8.png'),
+    category9: require('../assets/images/category9.png'),
+    today1: require('../assets/images/today1.png'),
+    today2: require('../assets/images/today2.png'),
+    today3: require('../assets/images/today3.png'),
+}
